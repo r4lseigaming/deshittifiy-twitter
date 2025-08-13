@@ -1,6 +1,8 @@
 # Deshittify Twitter
 Use Stylus to remove all the annoying upsells, goes well with Dim theme.
 
+For the best experience, get this Userscript: https://greasyfork.org/en/scripts/471572-x-to-twitter/code
+
 NOTE: you may need to change the CSS according to what color theme you use
 
 
