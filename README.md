@@ -1,10 +1,10 @@
-\# Deshittify Twitter
-
+# Deshittify Twitter
 Use Stylus to remove all the annoying upsells, goes well with Dim theme.
 
 NOTE: you may need to change the CSS according to what color theme you use
 
 
+### Theme colors
 
 Blue (Twitter Blue, default) : rgb(29, 155, 240);
 
