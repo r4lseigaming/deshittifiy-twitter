@@ -1,0 +1,61 @@
+/* ==UserStyle==
+@name           Deshittify Twitter
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    ass
+@author         Peepynis
+==/UserStyle== */
+@-moz-document domain("x.com") {
+    /* Insert code here... */
+}
+[aria-label="Grok"] {
+    display: none;
+}
+
+[aria-label="Jobs"] {
+    display: none;
+}
+
+[aria-label="Premium"] {
+    display: none;
+}
+
+[aria-label="Verified Orgs"] {
+    display: none;
+}
+
+[aria-label="X"] {
+    display: none;
+}
+
+[aria-label="Home (New unread posts)"] {
+    margin-top: 2rem;
+}
+
+[aria-label="Home"] {
+    margin-top: 2rem;
+}
+
+[data-testid="GrokDrawer"] {
+    display: none;
+}
+
+
+[aria-label="Enhance your post with Grok"] {
+    display: none;
+}
+
+/* tweet button */
+[class="css-175oi2r r-e7q0ms r-12kyg2d"] {
+    border-radius: 30px;
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgb(0, 186, 124); /* change this RGB value according to your theme color, it's in README */
+}
+
+[data-testid="super-upsell-UpsellCardRenderProperties"] {
+    display: none;
+}
+
+[aria-label="Grok actions"] {
+    display: none;
+}
